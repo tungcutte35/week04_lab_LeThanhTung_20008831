@@ -1,4 +1,3 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 </br>
 <h1 align="center">Hi 👋, I'm Le Thanh Tung</h1>
 
