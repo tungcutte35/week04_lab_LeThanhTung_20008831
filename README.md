@@ -1,19 +1,18 @@
-</br>
-<h1 align="center">Hi 👋, I'm Le Thanh Tung</h1>
+### :sparkles: Personal Information 
 
-- ✍ Subject : WWW với Công nghệ java
-- ✍ Content: Thực hành Tuần 4 (Spring boot)
+- ***Full Name***: Lê Thanh Tùng
 
-<br />
+- ***Email***: booking.tungcutte@gmail.com
+# :clock3: Education
 
-<p>
-  Thực hành tìm hiểu về spring boot
-</p>
+- ***Name University***: Industrial University of Ho Chi Minh City
+- ***Address***: 12 Nguyen Van Bao, Ward 4, Go Vap District, HCM City
+- ***Branch***: Software Engineering
+- ***Start***: 2020
+### :seedling: Kĩ năng áp dụng trong Project
+![My Skills](https://skillicons.dev/icons?i=html,css,spring,java,mysql,postman,git,github)
 
-# 😍Description project:
-<p>
-  Hiểu được các cách khai báo beans
-</p>
-<p>
-  Hiểu được Object Injection
-</p>
+### :Yêu cầu Project :
+Thực hành tìm hiểu về spring boot
+Hiểu được các cách khai báo beans
+Hiểu được Object Injection
